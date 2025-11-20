@@ -1,0 +1,26 @@
+{
+  "editor:insert-table": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "T"
+    }
+  ],
+  "workspace:new-tab": [],
+  "markdown:add-metadata-property": [],
+  "workspace:close": [],
+  "workspace:close-window": [],
+  "command-palette:open": [],
+  "file-explorer:new-file-in-new-pane": [],
+  "workspace:goto-last-tab": [],
+  "workspace:next-tab": [],
+  "people-mover:people-mover-consolidate": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "P"
+    }
+  ]
+}
